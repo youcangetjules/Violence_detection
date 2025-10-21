@@ -128,6 +128,8 @@ The model outputs probabilities in [0, 1]; by default, values ≥ 0.9 indicate V
 
 The frame preprocessing uses anti-aliasing resizing from scikit-image.
 
+#### ONLY EVER RUN THIS IN A VENV, ITS A FUCKER TO GET ALL THE VERSIONING CORRECT IF YOU'RE USING CUDA (AND IF YOU DONT WANT TO SIT AROUND FOR A MONTH OF SUNDAYS, GET A BEEFY VIDEO CARD, A GRUNTY CPU, AND CUDA 12.8. USING CUDA 13 DOESN'T WORK!!!!!
+
 ## 📜 License
 
 Distributed under the MIT License — free for research and educational use.
@@ -137,7 +139,7 @@ Distributed under the MIT License — free for research and educational use.
 Julian Garrett/Aliniant Labs
 Computer Vision & Deep Learning Researcher
 📧 Julian.garrett@aliniant.com
-💼 [GitHub / LinkedIn / Portfolio link]
+💼 www.aliniant.com
 
 # Massive props to a dude named Souhaeil without whom this wouldn't have been done
 
