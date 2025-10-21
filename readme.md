@@ -1,4 +1,4 @@
-#🔥 Violence Detection Model (violencemodel.py)
+# 🔥 Violence Detection Model (violencemodel.py)
 
 This module implements a deep learning model for video-based violence detection, using a VGG19 + LSTM architecture to capture both spatial and temporal features.
 
