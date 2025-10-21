@@ -10,6 +10,8 @@ A model builder that constructs the architecture and loads pretrained weights.
 
 A prediction helper that detects violence probability in short video clips.
 
+### I'll write eexpanded notes out when I have time. You NEED to use the setup.cuda.ps1 toi get the versioning right, as well as ONLY OPERATING IN A VENV
+
 ## 🧩 Features
 
 ✅ VGG19-based CNN extracts frame-level spatial features.
