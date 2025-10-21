@@ -10,7 +10,7 @@ A model builder that constructs the architecture and loads pretrained weights.
 
 A prediction helper that detects violence probability in short video clips.
 
-### I'll write eexpanded notes out when I have time. You NEED to use the setup.cuda.ps1 toi get the versioning right, as well as ONLY OPERATING IN A VENV
+### I'll write expanded notes out when I have time. You NEED to use the setup.cuda.ps1 to get the versioning right, (tensorflow/cuda etc - there is only ONE combination of these I have ever gotten working, as well as ONLY OPERATING IN A VENV. You have been warned.
 
 ## 🧩 Features
 
