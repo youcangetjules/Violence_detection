@@ -138,6 +138,6 @@ Julian Garrett/Aliniant Labs
 Computer Vision & Deep Learning Researcher
 📧 Julian.garrett@aliniant.com
 💼 [GitHub / LinkedIn / Portfolio link]
-Massive props to a dude name Souhaeil without whom this wouldn't have been done
 
-Would you like me to expand this README with a Training Data Preparation section (explaining how to extract 30-frame clips and labels from raw videos)? It would make this suitable for others to reproduce your dataset and training pipeline.
+# Massive props to a dude named Souhaeil without whom this wouldn't have been done
+
